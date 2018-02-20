@@ -1,0 +1,7 @@
+E:\NIKA\Работа\Программирование\Examples\Example2\Example2\Example2\bin\Debug\Example2.exe.config
+E:\NIKA\Работа\Программирование\Examples\Example2\Example2\Example2\bin\Debug\Example2.exe
+E:\NIKA\Работа\Программирование\Examples\Example2\Example2\Example2\bin\Debug\Example2.pdb
+E:\NIKA\Работа\Программирование\Examples\Example2\Example2\Example2\obj\Debug\Example2.csprojResolveAssemblyReference.cache
+E:\NIKA\Работа\Программирование\Examples\Example2\Example2\Example2\obj\Debug\Example2.csproj.CoreCompileInputs.cache
+E:\NIKA\Работа\Программирование\Examples\Example2\Example2\Example2\obj\Debug\Example2.exe
+E:\NIKA\Работа\Программирование\Examples\Example2\Example2\Example2\obj\Debug\Example2.pdb
